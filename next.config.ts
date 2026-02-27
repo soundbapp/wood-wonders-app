@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  async rewrites() {
-    return [{ source: "/favicon.ico", destination: "/icon.png" }];
-  },
+  /* config options here */
 };
 
 export default nextConfig;

@@ -24,7 +24,7 @@ const collections = [
     mat: "Teak · Okoumé · Walnut",
     className: "c3",
     featured: false,
-    image: "/images/Wall Systems.png",
+    image: "/images/Wall Systems.png?v=2",
   },
   {
     id: "4",
