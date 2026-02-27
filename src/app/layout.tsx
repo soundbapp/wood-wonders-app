@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   title: "Wood Wonders Factory — Industrial Design & Manufacturing",
   description: "Premium industrial design and precision manufacturing. Jos, Nigeria.",
   icons: {
-    icon: "/globe.svg",
+    icon: "/favicon-v2.png",
   },
 };
 
