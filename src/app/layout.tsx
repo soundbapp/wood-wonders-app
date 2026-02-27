@@ -24,6 +24,9 @@ const dmMono = DM_Mono({
 export const metadata: Metadata = {
   title: "Wood Wonders Factory — Industrial Design & Manufacturing",
   description: "Premium industrial design and precision manufacturing. Jos, Nigeria.",
+  icons: {
+    icon: "/globe.svg",
+  },
 };
 
 export default function RootLayout({
